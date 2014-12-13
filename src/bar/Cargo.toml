@@ -1,0 +1,10 @@
+[package]
+
+name = "bar"
+version = "0.0.1"
+authors = ["Michael Powell <herufeanor@gmail.com>"]
+
+[lib]
+
+name = "bar"
+path = "lib.rs"
